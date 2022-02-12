@@ -1,7 +1,7 @@
 # Horiseon
 
 ## Purpose
-A webiste that helps businesses' online presence.
+A website promoting a company that helps businesses' online presence.
 
 ## Built With
 * HTML
